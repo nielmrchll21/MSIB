@@ -1,0 +1,9 @@
+Rincian materi pelatihan
+html
+js
+github
+php
+mysql
+php and mysql
+laravel
+rest api 
